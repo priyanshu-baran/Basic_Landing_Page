@@ -11,7 +11,7 @@ A simple landing webpage made using HTML and CSS only for self-learning purpose.
 
 <br>
 
-You can view the demo of this webpage by following <a href="https://basic_landing_page.netlify.app/" target="_blank">this link</a>. For this one, I have used <a href="https://app.netlify.com" target="_blank">Netlify</a> to host the quiz.
+You can view the demo of this webpage by following <a href="https://basic-landing-webpage.netlify.app/" target="_blank">this link</a>. For this one, I have used <a href="https://app.netlify.com" target="_blank">Netlify</a> to host the quiz.
 <br><br>
 
 ---
