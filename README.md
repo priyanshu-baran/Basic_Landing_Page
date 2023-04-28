@@ -1,4 +1,4 @@
-# Basic Landing Page (Nescafe ☕)
+# Basic Landing Page (Of Nescafe ☕)
 
 <br>
 
@@ -7,7 +7,7 @@ A simple landing webpage made using HTML and CSS only for self-learning purpose.
 
 ---
 
-## Demo
+## Demo 👀
 
 <br>
 
@@ -16,7 +16,7 @@ You can view the demo of this webpage by following <a href="https://basic-landin
 
 ---
 
-## Features
+## Features 🌟🌟
 
 <br>
 
@@ -27,7 +27,7 @@ You can view the demo of this webpage by following <a href="https://basic-landin
 
 ---
 
-## Usage
+## Usage 📖
 
 <br>
 
@@ -46,7 +46,7 @@ You can view the demo of this webpage by following <a href="https://basic-landin
 
 ---
 
-## Contributing
+## Contributing 📝
 
 <br>
 
